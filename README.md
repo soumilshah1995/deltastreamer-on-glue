@@ -18,7 +18,7 @@ hudi-spark3.3-bundle_2.12-0.14.0.jar
 hudi-utilities-slim-bundle_2.12-0.14.0.jar
 ```
 
-Download the jar from 
+Download the jar from https://drive.google.com/drive/folders/1Rs9243i-D-jmFHPivlwdtODBRQpG1nys?usp=share_link
 LInk :
 
 # Step 3: Upload the code to Glue and select the Language to Scala 
